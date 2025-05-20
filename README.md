@@ -7,8 +7,6 @@
 
 **Estudiante:** Marco Sebastián Pesántez Coronel 
 
-**Fecha de entrega:** 20/05/2025
-
 ---
 
 ## Introducción teórica al Cuarteto de Anscombe
@@ -27,7 +25,7 @@ Cada uno de los cuatro conjuntos tiene las mismas estadísticas descriptivas (pr
 El Cuarteto de Anscombe nos enseña que no siempre es suficiente con mirar solo las estadísticas de los datos (como la media o la correlación) para entender cómo se distribuyen. Es muy importante **ver los datos en gráficos** para entender realmente su comportamiento y evitar sacar conclusiones incorrectas.
 
 ### Imagen del Cuarteto de Anscombe:
-![Cuarteto de Anscombe](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Anscombe%27s_quartet_3.svg/500px-Anscombe%27s_quartet_3.svg.png)
+![Cuarteto de Anscombe](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL_lm8hdU0XBDdlcw4PaYeh3MOJdWZQkQqhA&s)
 
 **Referencia:**
 - Anscombe, F. J. (1973). Graphs in Statistical Analysis. *The American Statistician*, 27(1), 17-21. https://doi.org/10.1080/00031305.1973.10478966.
