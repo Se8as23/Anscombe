@@ -25,7 +25,7 @@ Cada uno de los cuatro conjuntos tiene las mismas estadísticas descriptivas (pr
 El Cuarteto de Anscombe nos enseña que no siempre es suficiente con mirar solo las estadísticas de los datos (como la media o la correlación) para entender cómo se distribuyen. Es muy importante **ver los datos en gráficos** para entender realmente su comportamiento y evitar sacar conclusiones incorrectas.
 
 ### Imagen del Cuarteto de Anscombe:
-![Cuarteto de Anscombe](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL_lm8hdU0XBDdlcw4PaYeh3MOJdWZQkQqhA&s)
+![Cuarteto de Anscombe](https://media.licdn.com/dms/image/v2/C4D12AQGR5GeTHjCmqg/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1651977022484?e=2147483647&v=beta&t=vpTygsLYH3VBO5ry1lnWIyqlCAx7s7T-nDJtOVXGmyk)
 
 **Referencia:**
 - Anscombe, F. J. (1973). Graphs in Statistical Analysis. *The American Statistician*, 27(1), 17-21. https://doi.org/10.1080/00031305.1973.10478966.
