@@ -2,7 +2,7 @@
 
 ## Universidad Politécnica Salesiana (UPS)
 **Carrera:** Computación  
-**Periodo:** 66 
+**Periodo:** 2025 - 2025 
 **Estudiante:** Marco Sebastián Pesántez Coronel 
 **Fecha de entrega:** 20/05/2025
 
