@@ -1,1 +1,1 @@
-# Anscombe
+# Universidad Politécnica Salesiana
